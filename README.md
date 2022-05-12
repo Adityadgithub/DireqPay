@@ -1,8 +1,8 @@
 # direqpay
 
 ## App Screenshots
-![WhatsApp Image 2022-05-12 at 11 32 12 PM](https://user-images.githubusercontent.com/50459968/168140120-0a66ad39-c023-4d61-a796-d68cb9a4debf.jpeg)
-![WhatsApp Image 2022-05-12 at 11 32 13 PM](https://user-images.githubusercontent.com/50459968/168140098-bca410a6-59e2-4a65-9a07-9f34e292bafc.jpeg)
+![1](https://user-images.githubusercontent.com/50459968/168144790-678dbe01-c2d2-4fca-8db9-ea8969c7f45b.jpeg)
+![2](https://user-images.githubusercontent.com/50459968/168144797-655eb6a2-aad5-443b-8819-df3e15f2e8a7.jpeg)
 
 
 
