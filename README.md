@@ -1,6 +1,9 @@
 # direqpay
 
-A new Flutter project.
+## App Screenshots
+![WhatsApp Image 2022-05-12 at 11 32 13 PM](https://user-images.githubusercontent.com/50459968/168140098-bca410a6-59e2-4a65-9a07-9f34e292bafc.jpeg)
+![WhatsApp Image 2022-05-12 at 11 32 12 PM](https://user-images.githubusercontent.com/50459968/168140120-0a66ad39-c023-4d61-a796-d68cb9a4debf.jpeg)
+
 
 ## Getting Started
 
